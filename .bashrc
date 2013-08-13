@@ -8,6 +8,7 @@ cdf() {
         fi
 }
 alias f='open -a Finder ./'
+alias do='dayone'
 
 export PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/nkalkounis/bin:$PATH
 
