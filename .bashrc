@@ -8,13 +8,6 @@ cdf() {
         fi
 }
 alias f='open -a Finder ./'
-alias do='dayone'
-
-export PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/nkalkounis/bin:$PATH
-
-#Python working directories
-export PY_WORK_DIR=/Users/nkalkounis/Dropbox/Development
-export PY_ENV_DIR=/usr/local
 
 #terminal colour enhancements
 export CLICOLOR=1
